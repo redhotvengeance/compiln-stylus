@@ -1,0 +1,14 @@
+{
+  "name": "compiln-stylus",
+  "description": "Compiln plugin to render Stylus.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ian Lollar"
+  },
+  "keywords": ["build", "assets", "compiln", "middleware", "stylus"],
+  "engines" : ["node"],
+  "main" : "./lib/compiln-stylus",
+  "dependencies": {
+    "stylus": "0.28.2"
+  }
+}
