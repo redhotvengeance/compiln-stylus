@@ -7,6 +7,10 @@
   },
   "keywords": ["build", "assets", "compiln", "middleware", "stylus"],
   "engines" : ["node"],
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/redhotvengeance/compiln-stylus.git"
+  },
   "main" : "./lib/compiln-stylus",
   "dependencies": {
     "stylus": "0.28.2"
