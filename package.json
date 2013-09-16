@@ -13,6 +13,6 @@
   },
   "main" : "./lib/compiln-stylus",
   "dependencies": {
-    "stylus": "0.28.2"
+    "stylus": "~0.37.0"
   }
 }
