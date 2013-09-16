@@ -3,14 +3,25 @@
   "description": "Compiln plugin to render Stylus.",
   "version": "0.1.1",
   "author": {
-    "name": "Ian Lollar"
+    "name": "Ian Lollar",
+    "email": "rhv@redhotvengeance.com",
+    "url": "http://redhotvengeance.com"
   },
-  "keywords": ["build", "assets", "compiln", "middleware", "stylus"],
-  "engines" : ["node"],
+  "keywords": [
+    "build",
+    "assets",
+    "compiln",
+    "middleware",
+    "stylus"
+  ],
+  "engines": [
+    "node"
+  ],
   "repository":   {
     "type": "git",
     "url": "git://github.com/redhotvengeance/compiln-stylus.git"
   },
+  "homepage": "https://github.com/redhotvengeance/compiln-stylus",
   "main" : "./lib/compiln-stylus",
   "dependencies": {
     "stylus": "~0.37.0"
